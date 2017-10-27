@@ -7,5 +7,6 @@ and Spinnaker will run pipeline from Docker registry trigger.
 
 1. Prepare story demo
 2. Demo
+3. New br
 
 Vien
