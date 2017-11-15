@@ -10,3 +10,5 @@ and Spinnaker will run pipeline from Docker registry trigger.
 3. New br
 
 Vien
+
+Test in GCP
